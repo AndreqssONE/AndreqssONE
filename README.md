@@ -21,13 +21,14 @@
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <p>
-   <a href="https://aws.amazon.com/" target="_blank"><img src="https://skillicons.dev/icons?i=linux"/></a>
+   <a href="https://aws.amazon.com/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=aws"/></a>
+   <a href="https://skillicons.dev" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=linux"/></a>
    <a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker"/></a>
-   <a href="https://aws.amazon.com/" target="_blank"><img src="https://skillicons.dev/icons?i=java"/></a>
-   <a href="https://aws.amazon.com/" target="_blank"><img src="https://skillicons.dev/icons?i=js"/></a>
-   <a href="https://aws.amazon.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git"/></a>
-   <a href="https://aws.amazon.com/" target="_blank"><img src="https://skillicons.dev/icons?i=github"/></a>
-   <a href="https://aws.amazon.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql"/></a>
+   <a href="https://www.java.com/es/" target="_blank"><img src="https://skillicons.dev/icons?i=java"/></a>
+   <a href="https://skillicons.dev" target="_blank"><img src="https://skillicons.dev/icons?i=js"/></a>
+   <a href="https://skillicons.dev" target="_blank"><img src="https://skillicons.dev/icons?i=git"/></a>
+   <a href="https://github.com/" target="_blank"><img src="https://skillicons.dev/icons?i=github"/></a>
+   <a href="https://skillicons.dev" target="_blank"><img src="https://skillicons.dev/icons?i=mysql"/></a>
 </p>
 
 

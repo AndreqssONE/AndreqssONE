@@ -28,7 +28,7 @@
    <a href="https://skillicons.dev" target="_blank"><img src="https://skillicons.dev/icons?i=js"/></a>
    <a href="https://skillicons.dev" target="_blank"><img src="https://skillicons.dev/icons?i=git"/></a>
    <a href="https://github.com/" target="_blank"><img src="https://skillicons.dev/icons?i=github"/></a>
-   <a href="https://skillicons.dev" target="_blank"><img src="https://skillicons.dev/icons?i=sql"/></a>
+   <a href="https://skillicons.dev" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb"/></a>
 </p>
 
 

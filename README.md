@@ -21,8 +21,9 @@
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <p>
-   <a href="https://aws.amazon.com/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=aws"/></a>
-   <a href="https://skillicons.dev" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=linux"/></a>
+   <a href="https://aws.amazon.com/" target="_blank" ><img src="https://skillicons.dev/icons?i=aws"/></a>
+   <a href="https://skillicons.dev" target="_blank" ><img src="https://skillicons.dev/icons?i=linux"/></a>
+   <a href="https://aws.amazon.com/" target="_blank" ><img src="https://skillicons.dev/icons?i=spring"/></a>
    <a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker"/></a>
    <a href="https://www.java.com/es/" target="_blank"><img src="https://skillicons.dev/icons?i=java"/></a>
    <a href="https://skillicons.dev" target="_blank"><img src="https://skillicons.dev/icons?i=js"/></a>
@@ -33,6 +34,6 @@
 
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<a href = 'https://www.linkedin.com/in/aditya-deshmukh-561a371a8'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
+<a href = "https://www.linkedin.com/in/julio-c%C3%A9sar-hanma-4142203aa/"> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = 'https://www.github.com/AndreqssONE'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
   

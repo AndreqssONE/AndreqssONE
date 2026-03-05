@@ -29,10 +29,16 @@
 <a href= https://github.com/AndreqssONE?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
 
 <p>
-  <a href="https://aws.amazon.com/">
-    <img src="https://skillicons.dev/icons?i=aws,linux,docker,java,js,git,github,mysql" />
-  </a>
+   <a href="https://aws.amazon.com/" target="_blank><img src="https://skillicons.dev/icons?i=aws,linux,docker,java,js,git,github,mysql" /></a>
+
+   
+   <a href="https://aws.amazon.com/" target="_blank><img src="https://skillicons.dev/icons?i=linux"/></a></p>
+   <a href="https://aws.amazon.com/" target="_blank><img src="https://skillicons.dev/icons?i=docker"/></a></p>
+   <a href="https://aws.amazon.com/" target="_blank><img src="https://skillicons.dev/icons?i=java"/></a></p>
+   <a href="https://aws.amazon.com/" target="_blank><img src="https://skillicons.dev/icons?i=js"/></a></p>
+   <a href="https://aws.amazon.com/" target="_blank><img src="https://skillicons.dev/icons?i=git"/></a></p>
 </p>
+
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <a href = 'https://www.linkedin.com/in/aditya-deshmukh-561a371a8'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 

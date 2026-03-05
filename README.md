@@ -29,8 +29,8 @@
 <a href= https://github.com/AndreqssONE?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
 
 <p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,linux,,docker,java,js,git,github,mysql" />
+  <a href="https://aws.amazon.com/">
+    <img src="https://skillicons.dev/icons?i=aws,linux,docker,java,js,git,github,mysql" />
   </a>
 </p>
 
